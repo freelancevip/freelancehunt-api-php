@@ -1,8 +1,8 @@
 <?php
 
-namespace freelancevip;
+namespace Freelancevip\FreelancehuntApi;
 
-class FreelancehuntApi {
+class Api {
 	const API_BASE = 'https://api.freelancehunt.com/';
 	private $api_token;
 	private $api_secret;

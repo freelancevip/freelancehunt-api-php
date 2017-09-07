@@ -1,5 +1,5 @@
 {
-  "name": "trollix/freelancehunt-api-php",
+  "name": "freelancevip/freelancehunt-api-php",
   "description": "Freelancehunt PHP API",
   "version": "0.0.1",
   "minimum-stability": "dev",
@@ -13,8 +13,8 @@
     }
   ],
   "autoload": {
-    "psr-0": {
-      "freelancevip": ""
+    "psr-4": {
+      "Freelancevip\\FreelancehuntApi\\": "src/"
     }
   }
 }
