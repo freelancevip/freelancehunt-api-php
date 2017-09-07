@@ -1,7 +1,8 @@
 {
   "name": "trollix/freelancehunt-api-php",
   "description": "Freelancehunt PHP API",
-  "version": "0.1.1",
+  "version": "0.0.1",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
   },
