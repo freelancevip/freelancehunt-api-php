@@ -1,0 +1,19 @@
+{
+  "name": "trollix/freelancehunt-api-php",
+  "description": "Freelancehunt PHP API",
+  "version": "0.1.1",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "authors": [
+    {
+      "name": "Anatoliy Demchenko",
+      "email": "freelancevip@yandex.ru"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "freelancevip": ""
+    }
+  }
+}
