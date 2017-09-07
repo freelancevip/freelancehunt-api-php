@@ -1,15 +1,9 @@
 {
   "name": "freelancevip/freelancehunt-api-php",
   "description": "Freelancehunt PHP API",
-  "version": "1.0.0",
   "type": "library",
-  "license": "MIT",
-  "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
-  },
-  "require-dev": {
-    "phpdocumentor/phpdocumentor": "2.*"
   },
   "authors": [
     {
@@ -20,11 +14,6 @@
   "autoload": {
     "psr-4": {
       "Freelancevip\\FreelancehuntApi\\": "src"
-    }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0-dev"
     }
   }
 }
