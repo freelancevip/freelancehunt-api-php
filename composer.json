@@ -1,5 +1,5 @@
 {
-  "name": "freelancevip/freelancehunt-api-php",
+  "name": "freelancevip/freelancehunt-api",
   "description": "Freelancehunt PHP API",
   "type": "library",
   "require": {
