@@ -1,7 +1,6 @@
 {
   "name": "freelancevip/freelancehunt-api",
   "description": "Freelancehunt PHP API",
-  "type": "library",
   "require": {
     "php": ">=5.3.0"
   },
