@@ -2,9 +2,13 @@
   "name": "freelancevip/freelancehunt-api-php",
   "description": "Freelancehunt PHP API",
   "version": "1.0.0",
+  "type": "library",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
+  },
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "2.*"
   },
   "authors": [
     {
