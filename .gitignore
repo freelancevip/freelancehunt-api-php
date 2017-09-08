@@ -1,3 +1,4 @@
 .idea/
 /vendor/
 private_options.php
+composer.lock
