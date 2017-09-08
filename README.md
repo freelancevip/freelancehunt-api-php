@@ -4,7 +4,7 @@
 Предоставляет программный доступ к функциям сервиса, таким как лента новостей, личные сообщение, список проектов, информация о пользователях и т.п. 
 ## Installation using Composer
 ```
-$ composer require freelancevip/freelancehunt-api-php
+$ composer require freelancevip/freelancehunt-api
 ```
 После установки, подключить автолоадер, если еще не подключен:
 ```
@@ -15,7 +15,7 @@ require_once 'vendor/autoload.php';
 $app_id = 'your_app_id';
 $app_secret = 'your_app_secret';
 
-$api = new freelancevip\FreelancehuntApi($app_id, $app_secret);
+$api = new Freelancevip\FreelancehuntApi\Api($app_id, $app_secret);
 
 $profile = $api->profile( 'me' );
 print_r($profile);
